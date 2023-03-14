@@ -1,0 +1,11 @@
+C:\Proyectos VS\CapaPresentacion\CapaNegocio\obj\Release\CapaNegocio.csproj.AssemblyReference.cache
+C:\Proyectos VS\CapaPresentacion\CapaNegocio\obj\Release\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Proyectos VS\CapaPresentacion\CapaNegocio\bin\Release\CapaNegocio.dll
+C:\Proyectos VS\CapaPresentacion\CapaNegocio\bin\Release\CapaNegocio.pdb
+C:\Proyectos VS\CapaPresentacion\CapaNegocio\bin\Release\CapaDatos.dll
+C:\Proyectos VS\CapaPresentacion\CapaNegocio\bin\Release\CapaEntidad.dll
+C:\Proyectos VS\CapaPresentacion\CapaNegocio\bin\Release\CapaDatos.pdb
+C:\Proyectos VS\CapaPresentacion\CapaNegocio\bin\Release\CapaEntidad.pdb
+C:\Proyectos VS\CapaPresentacion\CapaNegocio\obj\Release\CapaNegocio.csproj.CopyComplete
+C:\Proyectos VS\CapaPresentacion\CapaNegocio\obj\Release\CapaNegocio.dll
+C:\Proyectos VS\CapaPresentacion\CapaNegocio\obj\Release\CapaNegocio.pdb
